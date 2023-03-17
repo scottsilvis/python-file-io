@@ -1,181 +1,851 @@
-Variation--Inheritance--Character
-inherited
-inheritance,
-Variation--Inheritance--Character
-inheritance
-INHERITANCE.
-inherited
-inherited
-inherited
-inheritable
-inheritance;
-inheritance.
-inherited,
-inheritable.
-inheritance
-non-inheritance
-inheritance
-inherited
-inherited
-inherited
-inherited
-truly-inherited
-inheritance.
-inheritance
-inheritance
-inherited
-inheritance
-inherited;
-inherited
-inherited,
-inherit
-inherited
-inheritance
-inherited.
-inherit
-inherited
-inheriting
-inherited
-inherited
-inheritance,
-inherit
-inherited
-inheritance
-inherited
-inheritance
-inheritance,
-inherited
-inheritance
-inheritance
-inherited.
-inherited
-inherited
-inherited
-inheritance
-inheritance;
-inheritance
-inherited
-inherited
-inherited
-inherited
-inheritance.
-inherited.
-inherited,
-inheriting
-inherited,
-inheritance
-inherited
-inherited
-inheritance
-inheritance
-inheritance
-inherited
-inherited,
-inherited
-inheritance;
-inheritance.
-inheritance
-inheriting
-inherited
-inheritance.
-inherited
-inherited
-inherit
-inherited
-inherited
-inheritance,
-inheritance.
-inherited--and
-inheritance
-inheritance
-INHERITED
-inherited
-inherited.
-inherited
-inherited,
-inherited
-inherited
-inherited
-inheritance
-inherited
-inheritance
-inherited
-inheritance
-inherited
-inherited
-inherited
-inherited
-inherited
-inherited.
-inheritance,
-inheritance
-inherit
-inherit
-inherited
-inheriting
-inherited
-inherited
-inherited
-inheritance.
-inheritance,
-inheritance
-inheritance
-inheritance
-inherited
-inheritance,
-inherited
-inherited
-inherited
-inheritance
-inheritance
-inherited
-inherited
-inherited
-inheritance
-inherit
-inheritance
-inheritance,
-inheritance
-inheritance,
-inheritance
-inheritance,
-inheritance,
-inherited
-inherited
-inherited,
-inherited
-inherited
-inheritance
-inheritance
-inheritance
-inherited
-inherited
-inheritance,
-inherited.
-inheritance
-inheritance--we
-inherited
-inherited
-inheritance--the
-inherited
-inherited
-inherited
-inherited,
-inherited
-inherited
-inherit
-inherited
-inheritance
-inherited
-inherited
-inheritance
-inherited
-inherited
-inherited.
-Inheritance
-inherited
---inherited
-inherited
-Inheritance,
-inheritance
-inheritance
+Line: 30 Word: SELECTION
+Line: 96 Word: selection
+Line: 159 Word: selection
+Line: 164 Word: selection
+Line: 217 Word: selection
+Line: 308 Word: selection
+Line: 314 Word: selection
+Line: 321 Word: selection
+Line: 362 Word: selection
+Line: 422 Word: Selection
+Line: 470 Word: Inheritance
+Line: 473 Word: Selection
+Line: 475 Word: Selection
+Line: 476 Word: Selection
+Line: 495 Word: selection
+Line: 507 Word: SELECTION
+Line: 509 Word: Selection
+Line: 511 Word: Selection
+Line: 513 Word: Selection
+Line: 515 Word: Selection
+Line: 517 Word: Selection
+Line: 528 Word: selection
+Line: 548 Word: Selection
+Line: 553 Word: SELECTION
+Line: 558 Word: selection
+Line: 560 Word: selection
+Line: 576 Word: Selection
+Line: 587 Word: selection
+Line: 659 Word: inherited
+Line: 668 Word: Selection
+Line: 670 Word: Selection
+Line: 696 Word: greatest
+Line: 783 Word: selection
+Line: 797 Word: SELECTED
+Line: 798 Word: inheritance
+Line: 801 Word: selection
+Line: 803 Word: selection
+Line: 840 Word: selection
+Line: 849 Word: Inheritance
+Line: 852 Word: Selection
+Line: 854 Word: Selection
+Line: 855 Word: Selection
+Line: 913 Word: inheritance
+Line: 990 Word: INHERITANCE
+Line: 992 Word: inherited
+Line: 999 Word: inherited
+Line: 1026 Word: select
+Line: 1032 Word: selecting
+Line: 1045 Word: inherited
+Line: 1046 Word: inheritable
+Line: 1050 Word: inheritance
+Line: 1059 Word: inheritance
+Line: 1062 Word: inherited
+Line: 1063 Word: inheritable
+Line: 1064 Word: inheritance
+Line: 1065 Word: inheritance
+Line: 1067 Word: inheritance
+Line: 1069 Word: inherited
+Line: 1080 Word: inherited
+Line: 1259 Word: inherited
+Line: 1271 Word: selection
+Line: 1299 Word: inherited
+Line: 1350 Word: inherited
+Line: 1449 Word: inheritance
+Line: 1490 Word: selection
+Line: 1507 Word: selection
+Line: 1536 Word: selecting
+Line: 1539 Word: inheritance
+Line: 1546 Word: SELECTION
+Line: 1576 Word: selection
+Line: 1581 Word: selection
+Line: 1592 Word: selection
+Line: 1598 Word: selection
+Line: 1603 Word: selected
+Line: 1610 Word: selection
+Line: 1611 Word: selection
+Line: 1638 Word: selection
+Line: 1642 Word: selection
+Line: 1657 Word: selection
+Line: 1661 Word: selection
+Line: 1672 Word: selection
+Line: 1677 Word: attested
+Line: 1682 Word: selection
+Line: 1685 Word: inheritance
+Line: 1688 Word: SELECTION
+Line: 1690 Word: selection
+Line: 1693 Word: selection
+Line: 1720 Word: selection
+Line: 1732 Word: selection
+Line: 1744 Word: inherited
+Line: 1750 Word: selection
+Line: 1774 Word: selecting
+Line: 1791 Word: selection
+Line: 1801 Word: selection
+Line: 1807 Word: selection
+Line: 1813 Word: select
+Line: 1816 Word: selection
+Line: 1823 Word: selected
+Line: 1826 Word: selection
+Line: 1863 Word: selection
+Line: 1871 Word: SELECTION
+Line: 1874 Word: selection
+Line: 1875 Word: selection
+Line: 1891 Word: selection
+Line: 1893 Word: slightest
+Line: 1922 Word: selection
+Line: 1926 Word: selection
+Line: 1948 Word: selected
+Line: 1966 Word: inheritance
+Line: 1976 Word: selection
+Line: 1985 Word: selection
+Line: 2018 Word: inherited
+Line: 2021 Word: inherited
+Line: 2056 Word: inherited
+Line: 2057 Word: selection
+Line: 2102 Word: selection
+Line: 2201 Word: test
+Line: 2261 Word: slightest
+Line: 2280 Word: greatest
+Line: 2313 Word: greatest
+Line: 2373 Word: selection
+Line: 2436 Word: inherit
+Line: 2492 Word: test
+Line: 2538 Word: test
+Line: 2608 Word: greatest
+Line: 2622 Word: selection
+Line: 2633 Word: selection
+Line: 2665 Word: inherited
+Line: 2670 Word: selection
+Line: 2672 Word: Fittest
+Line: 2673 Word: selection
+Line: 2676 Word: Selection
+Line: 3084 Word: contest
+Line: 3192 Word: SELECTION
+Line: 3194 Word: Selection
+Line: 3196 Word: Selection
+Line: 3198 Word: Selection
+Line: 3200 Word: Selection
+Line: 3202 Word: Selection
+Line: 3209 Word: selection
+Line: 3238 Word: Selection
+Line: 3239 Word: selection
+Line: 3245 Word: Selection
+Line: 3249 Word: selection
+Line: 3250 Word: selects
+Line: 3251 Word: selection
+Line: 3253 Word: selection
+Line: 3254 Word: selection
+Line: 3258 Word: selection
+Line: 3268 Word: selection
+Line: 3289 Word: selection
+Line: 3294 Word: selection
+Line: 3296 Word: selection
+Line: 3300 Word: selection
+Line: 3304 Word: selection
+Line: 3322 Word: selection
+Line: 3323 Word: selection
+Line: 3325 Word: fittest
+Line: 3328 Word: selects
+Line: 3329 Word: selected
+Line: 3330 Word: selection
+Line: 3331 Word: selected
+Line: 3338 Word: selection
+Line: 3341 Word: slightest
+Line: 3351 Word: selection
+Line: 3352 Word: slightest
+Line: 3374 Word: selection
+Line: 3385 Word: selection
+Line: 3390 Word: faintest
+Line: 3411 Word: selection
+Line: 3421 Word: selection
+Line: 3423 Word: inheritance
+Line: 3425 Word: selection
+Line: 3426 Word: selection
+Line: 3427 Word: selection
+Line: 3432 Word: selection
+Line: 3436 Word: selection
+Line: 3439 Word: selected
+Line: 3440 Word: selection
+Line: 3445 Word: selection
+Line: 3453 Word: selection
+Line: 3456 Word: selected
+Line: 3461 Word: selection
+Line: 3463 Word: selection
+Line: 3479 Word: selection
+Line: 3485 Word: SELECTION
+Line: 3490 Word: selection
+Line: 3493 Word: selection
+Line: 3498 Word: selection
+Line: 3499 Word: selection
+Line: 3504 Word: selection
+Line: 3507 Word: selection
+Line: 3520 Word: selection
+Line: 3524 Word: contest
+Line: 3538 Word: selecting
+Line: 3542 Word: selection
+Line: 3550 Word: selection
+Line: 3556 Word: selection
+Line: 3562 Word: SELECTION
+Line: 3563 Word: FITTEST
+Line: 3565 Word: selection
+Line: 3569 Word: fleetest
+Line: 3572 Word: swiftest
+Line: 3574 Word: selected
+Line: 3578 Word: selection
+Line: 3579 Word: selection
+Line: 3594 Word: inherited
+Line: 3597 Word: inherit
+Line: 3616 Word: selection
+Line: 3634 Word: inherited
+Line: 3646 Word: straightest
+Line: 3659 Word: selection
+Line: 3666 Word: fittest
+Line: 3681 Word: selection
+Line: 3709 Word: selected
+Line: 3742 Word: selected
+Line: 3753 Word: selection
+Line: 3763 Word: inheriting
+Line: 3794 Word: selection
+Line: 3801 Word: selection
+Line: 3802 Word: inherited
+Line: 3804 Word: selection
+Line: 3976 Word: SELECTION
+Line: 3985 Word: selection
+Line: 3989 Word: inherited
+Line: 3990 Word: selection
+Line: 3992 Word: selection
+Line: 3993 Word: selection
+Line: 3995 Word: selection
+Line: 4000 Word: selection
+Line: 4001 Word: selected
+Line: 4026 Word: selection
+Line: 4046 Word: inheritance
+Line: 4049 Word: selection
+Line: 4053 Word: selection
+Line: 4055 Word: selection
+Line: 4074 Word: selection
+Line: 4078 Word: selection
+Line: 4084 Word: selected
+Line: 4088 Word: test
+Line: 4122 Word: greatest
+Line: 4151 Word: selection
+Line: 4171 Word: selection
+Line: 4174 Word: selection
+Line: 4188 Word: selection
+Line: 4189 Word: selection
+Line: 4195 Word: selection
+Line: 4196 Word: selection
+Line: 4200 Word: selection
+Line: 4202 Word: SELECTION
+Line: 4206 Word: selection
+Line: 4227 Word: greatest
+Line: 4234 Word: selection
+Line: 4245 Word: selection
+Line: 4291 Word: selection
+Line: 4324 Word: selection
+Line: 4332 Word: selected
+Line: 4346 Word: greatest
+Line: 4349 Word: contest
+Line: 4414 Word: SELECTION
+Line: 4423 Word: selection
+Line: 4444 Word: selected
+Line: 4448 Word: selection
+Line: 4462 Word: inherit
+Line: 4493 Word: selection
+Line: 4549 Word: greatest
+Line: 4561 Word: selection
+Line: 4562 Word: selected
+Line: 4592 Word: inherited
+Line: 4607 Word: selection
+Line: 4623 Word: inheritance
+Line: 4682 Word: selection
+Line: 4686 Word: inherited
+Line: 4719 Word: selection
+Line: 4756 Word: selection
+Line: 4760 Word: selection
+Line: 4764 Word: selection
+Line: 4768 Word: remotest
+Line: 4782 Word: selection
+Line: 4787 Word: intestinal
+Line: 4788 Word: selection
+Line: 4833 Word: selection
+Line: 4851 Word: selection
+Line: 4879 Word: selected
+Line: 4882 Word: inheritance
+Line: 4893 Word: selection
+Line: 4957 Word: inheritance
+Line: 4959 Word: fittest
+Line: 4965 Word: selection
+Line: 4967 Word: selection
+Line: 4968 Word: selection
+Line: 4969 Word: greatest
+Line: 4972 Word: inheritance
+Line: 4974 Word: selection
+Line: 4979 Word: selection
+Line: 4996 Word: selection
+Line: 5013 Word: inheritance
+Line: 5014 Word: selection
+Line: 5056 Word: selection
+Line: 5109 Word: slightest
+Line: 5110 Word: selection
+Line: 5131 Word: selection
+Line: 5132 Word: selecting
+Line: 5136 Word: fittest
+Line: 5139 Word: SELECTION
+Line: 5144 Word: inherited
+Line: 5172 Word: inherited
+Line: 5174 Word: inherited
+Line: 5177 Word: inherited
+Line: 5184 Word: selection
+Line: 5199 Word: selection
+Line: 5211 Word: selection
+Line: 5212 Word: selection
+Line: 5224 Word: selection
+Line: 5233 Word: selection
+Line: 5278 Word: selection
+Line: 5353 Word: test
+Line: 5375 Word: selection
+Line: 5382 Word: selecting
+Line: 5384 Word: selection
+Line: 5411 Word: selection
+Line: 5418 Word: selection
+Line: 5422 Word: inheritance
+Line: 5432 Word: selection
+Line: 5435 Word: selection
+Line: 5468 Word: selection
+Line: 5498 Word: selection
+Line: 5508 Word: slightest
+Line: 5512 Word: inheritance
+Line: 5513 Word: selection
+Line: 5518 Word: selection
+Line: 5522 Word: selection
+Line: 5545 Word: selection
+Line: 5552 Word: selection
+Line: 5573 Word: selection
+Line: 5577 Word: selection
+Line: 5597 Word: selection
+Line: 5602 Word: selection
+Line: 5608 Word: selection
+Line: 5670 Word: selection
+Line: 5672 Word: selection
+Line: 5678 Word: selection
+Line: 5682 Word: selection
+Line: 5692 Word: selection
+Line: 5693 Word: selection
+Line: 5695 Word: selection
+Line: 5708 Word: selection
+Line: 5714 Word: selection
+Line: 5726 Word: selection
+Line: 5774 Word: inheritance
+Line: 5775 Word: selection
+Line: 5778 Word: inherited
+Line: 5802 Word: selection
+Line: 5806 Word: selection
+Line: 5833 Word: selection
+Line: 5850 Word: inherited
+Line: 5853 Word: inherited
+Line: 5855 Word: selection
+Line: 5856 Word: selection
+Line: 5857 Word: selection
+Line: 5873 Word: inherited
+Line: 5904 Word: inheritance
+Line: 5930 Word: inherited
+Line: 5941 Word: selection
+Line: 6136 Word: selection
+Line: 6140 Word: selection
+Line: 6144 Word: inherited
+Line: 6163 Word: selection
+Line: 6168 Word: selection
+Line: 6170 Word: inheriting
+Line: 6196 Word: Selection
+Line: 6214 Word: selection
+Line: 6220 Word: selection
+Line: 6234 Word: selection
+Line: 6238 Word: selection
+Line: 6355 Word: selection
+Line: 6366 Word: selection
+Line: 6379 Word: selection
+Line: 6399 Word: selection
+Line: 6412 Word: selection
+Line: 6415 Word: selection
+Line: 6420 Word: selection
+Line: 6475 Word: selection
+Line: 6490 Word: selection
+Line: 6528 Word: selection
+Line: 6544 Word: selection
+Line: 6602 Word: acutest
+Line: 6636 Word: selection
+Line: 6654 Word: selection
+Line: 6662 Word: inherited
+Line: 6665 Word: selection
+Line: 6718 Word: selection
+Line: 6726 Word: selection
+Line: 6731 Word: selection
+Line: 6758 Word: selection
+Line: 6773 Word: selection
+Line: 6780 Word: selection
+Line: 6809 Word: selection
+Line: 6861 Word: selection
+Line: 6885 Word: selection
+Line: 6921 Word: SELECTION
+Line: 6963 Word: inheritance
+Line: 6964 Word: selection
+Line: 6965 Word: inherited
+Line: 6979 Word: inherited
+Line: 7002 Word: inheritance
+Line: 7021 Word: selection
+Line: 7027 Word: selection
+Line: 7030 Word: inheritance
+Line: 7033 Word: test
+Line: 7052 Word: inheritance
+Line: 7068 Word: selection
+Line: 7080 Word: inherited
+Line: 7181 Word: selection
+Line: 7184 Word: inherited
+Line: 7187 Word: inherited
+Line: 7206 Word: selection
+Line: 7207 Word: selection
+Line: 7212 Word: SELECTION
+Line: 7214 Word: selection
+Line: 7215 Word: fittest
+Line: 7228 Word: selection
+Line: 7249 Word: selection
+Line: 7262 Word: selection
+Line: 7268 Word: selection
+Line: 7280 Word: selection
+Line: 7281 Word: selection
+Line: 7307 Word: selection
+Line: 7310 Word: selection
+Line: 7314 Word: selection
+Line: 7340 Word: protest
+Line: 7355 Word: inheritance
+Line: 7363 Word: inheritance
+Line: 7425 Word: selection
+Line: 7432 Word: selection
+Line: 7443 Word: selection
+Line: 7446 Word: selection
+Line: 7452 Word: selection
+Line: 7469 Word: selection
+Line: 7470 Word: selection
+Line: 7479 Word: selection
+Line: 7485 Word: selection
+Line: 7514 Word: selection
+Line: 7525 Word: selection
+Line: 7532 Word: SELECTION
+Line: 7540 Word: selection
+Line: 7542 Word: selection
+Line: 7559 Word: selection
+Line: 7569 Word: selection
+Line: 7573 Word: selection
+Line: 7590 Word: selection
+Line: 7598 Word: selection
+Line: 7607 Word: selection
+Line: 7609 Word: selection
+Line: 7613 Word: selection
+Line: 7621 Word: selection
+Line: 7625 Word: selection
+Line: 7638 Word: selection
+Line: 7645 Word: inheritance
+Line: 7651 Word: SELECTION
+Line: 7656 Word: selection
+Line: 7658 Word: selection
+Line: 7683 Word: selection
+Line: 7687 Word: selection
+Line: 7694 Word: selection
+Line: 7712 Word: selection
+Line: 7719 Word: selection
+Line: 7733 Word: selection
+Line: 7742 Word: selection
+Line: 7748 Word: selection
+Line: 7758 Word: selection
+Line: 7762 Word: selection
+Line: 7768 Word: selection
+Line: 7805 Word: selection
+Line: 7830 Word: selection
+Line: 7844 Word: selection
+Line: 7871 Word: selection
+Line: 7908 Word: selection
+Line: 7921 Word: selection
+Line: 7951 Word: selection
+Line: 7972 Word: selection
+Line: 7973 Word: selection
+Line: 7976 Word: selection
+Line: 7993 Word: selection
+Line: 8005 Word: selection
+Line: 8008 Word: selection
+Line: 8013 Word: selection
+Line: 8024 Word: selection
+Line: 8034 Word: selection
+Line: 8040 Word: selecting
+Line: 8056 Word: selection
+Line: 8059 Word: fleetest
+Line: 8069 Word: slightest
+Line: 8074 Word: inheriting
+Line: 8079 Word: selection
+Line: 8083 Word: selection
+Line: 8084 Word: inherited
+Line: 8111 Word: selection
+Line: 8124 Word: selection
+Line: 8158 Word: selection
+Line: 8163 Word: selection
+Line: 8165 Word: selection
+Line: 8175 Word: selection
+Line: 8239 Word: selection
+Line: 8259 Word: selection
+Line: 8282 Word: greatest
+Line: 8300 Word: selection
+Line: 8398 Word: selection
+Line: 8481 Word: inheritance
+Line: 8499 Word: inherited
+Line: 8519 Word: selection
+Line: 8522 Word: inherited
+Line: 8524 Word: selection
+Line: 8526 Word: inherit
+Line: 8528 Word: selection
+Line: 8589 Word: selection
+Line: 8592 Word: selection
+Line: 8611 Word: selection
+Line: 8709 Word: selection
+Line: 8864 Word: selection
+Line: 8876 Word: inherited
+Line: 8879 Word: selection
+Line: 8894 Word: selection
+Line: 8930 Word: selection
+Line: 8940 Word: selection
+Line: 8941 Word: inherited
+Line: 8946 Word: selected
+Line: 8947 Word: selection
+Line: 8960 Word: inheritance
+Line: 8964 Word: selection
+Line: 8971 Word: selection
+Line: 8986 Word: inheritance
+Line: 8990 Word: selection
+Line: 8993 Word: selection
+Line: 9009 Word: selection
+Line: 9021 Word: selection
+Line: 9024 Word: selection
+Line: 9029 Word: selection
+Line: 9031 Word: selection
+Line: 9037 Word: selection
+Line: 9048 Word: selection
+Line: 9049 Word: selection
+Line: 9096 Word: selection
+Line: 9158 Word: protest
+Line: 9202 Word: Selection
+Line: 9251 Word: inherited
+Line: 9259 Word: inheritance
+Line: 9269 Word: selection
+Line: 9276 Word: selection
+Line: 9281 Word: selection
+Line: 9297 Word: selection
+Line: 9335 Word: inheritance
+Line: 9336 Word: selection
+Line: 9369 Word: selection
+Line: 9374 Word: INHERITED
+Line: 9376 Word: inherited
+Line: 9379 Word: selection
+Line: 9383 Word: inherited
+Line: 9393 Word: inherited
+Line: 9407 Word: selection
+Line: 9412 Word: inherited
+Line: 9417 Word: tested
+Line: 9425 Word: inherited
+Line: 9430 Word: selection
+Line: 9439 Word: selection
+Line: 9440 Word: inherited
+Line: 9441 Word: selection
+Line: 9447 Word: selected
+Line: 9448 Word: inherited
+Line: 9465 Word: selection
+Line: 9466 Word: inheritance
+Line: 9483 Word: selecting
+Line: 9486 Word: inherited
+Line: 9488 Word: selection
+Line: 9489 Word: selection
+Line: 9494 Word: selection
+Line: 9495 Word: select
+Line: 9530 Word: inheritance
+Line: 9583 Word: selection
+Line: 9610 Word: inherited
+Line: 9614 Word: selection
+Line: 9675 Word: selection
+Line: 9789 Word: greatest
+Line: 9822 Word: selection
+Line: 9826 Word: selection
+Line: 9839 Word: greatest
+Line: 9926 Word: greatest
+Line: 9934 Word: selection
+Line: 9936 Word: tested
+Line: 10090 Word: selection
+Line: 10134 Word: selection
+Line: 10138 Word: selection
+Line: 10140 Word: selection
+Line: 10147 Word: selection
+Line: 10149 Word: greatest
+Line: 10156 Word: SELECTION
+Line: 10169 Word: selection
+Line: 10175 Word: selection
+Line: 10187 Word: selection
+Line: 10195 Word: selection
+Line: 10199 Word: selection
+Line: 10201 Word: inheritance
+Line: 10203 Word: selection
+Line: 10220 Word: selection
+Line: 10229 Word: selection
+Line: 10230 Word: inherited
+Line: 10231 Word: selected
+Line: 10236 Word: selection
+Line: 10240 Word: inherited
+Line: 10252 Word: selection
+Line: 10255 Word: selection
+Line: 10260 Word: selection
+Line: 10266 Word: selected
+Line: 10272 Word: selection
+Line: 10302 Word: selection
+Line: 10306 Word: selection
+Line: 10336 Word: selected
+Line: 10363 Word: selection
+Line: 10367 Word: greatest
+Line: 10385 Word: inherited
+Line: 10386 Word: inherited
+Line: 10388 Word: selection
+Line: 10392 Word: selection
+Line: 10402 Word: inherited
+Line: 10409 Word: inherited
+Line: 10412 Word: selection
+Line: 10425 Word: selection
+Line: 10432 Word: inheritance
+Line: 10458 Word: selection
+Line: 10978 Word: selection
+Line: 10983 Word: selecting
+Line: 10989 Word: selection
+Line: 10992 Word: selection
+Line: 10999 Word: selection
+Line: 11000 Word: greatest
+Line: 11009 Word: selection
+Line: 11013 Word: selection
+Line: 11019 Word: selection
+Line: 11023 Word: selection
+Line: 11033 Word: selection
+Line: 11038 Word: select
+Line: 11041 Word: selection
+Line: 11072 Word: latest
+Line: 11253 Word: greatest
+Line: 11312 Word: test
+Line: 11449 Word: test
+Line: 11474 Word: tested
+Line: 11594 Word: selection
+Line: 11620 Word: test
+Line: 11641 Word: selection
+Line: 11685 Word: selection
+Line: 11692 Word: inheritance
+Line: 11732 Word: selection
+Line: 11786 Word: selection
+Line: 11955 Word: selection
+Line: 11956 Word: selection
+Line: 11958 Word: selection
+Line: 12153 Word: testimony
+Line: 12232 Word: latest
+Line: 12501 Word: selection
+Line: 12749 Word: remotest
+Line: 12787 Word: greatest
+Line: 12823 Word: selection
+Line: 12868 Word: selection
+Line: 12912 Word: inherit
+Line: 12924 Word: inherit
+Line: 12968 Word: selection
+Line: 13058 Word: selection
+Line: 13091 Word: inherited
+Line: 13117 Word: selection
+Line: 13213 Word: selection
+Line: 13216 Word: greatest
+Line: 13219 Word: greatest
+Line: 13243 Word: inheriting
+Line: 13392 Word: inherited
+Line: 13549 Word: selection
+Line: 13562 Word: test
+Line: 13564 Word: selection
+Line: 13585 Word: selection
+Line: 13663 Word: inherited
+Line: 13819 Word: selection
+Line: 13832 Word: inherited
+Line: 13840 Word: greatest
+Line: 13874 Word: inheritance
+Line: 13878 Word: selection
+Line: 13883 Word: fittest
+Line: 14009 Word: inheritance
+Line: 14013 Word: selection
+Line: 14024 Word: selection
+Line: 14031 Word: inheritance
+Line: 14038 Word: selection
+Line: 14155 Word: inheritance
+Line: 14182 Word: selecting
+Line: 14185 Word: selected
+Line: 14186 Word: greatest
+Line: 14342 Word: intestines
+Line: 14449 Word: intestines
+Line: 14909 Word: selection
+Line: 15180 Word: selected
+Line: 15305 Word: selection
+Line: 15490 Word: inheritance
+Line: 15549 Word: selection
+Line: 15807 Word: selection
+Line: 15823 Word: inherited
+Line: 15838 Word: Selection
+Line: 15843 Word: inheritance
+Line: 15863 Word: inherited
+Line: 15939 Word: selection
+Line: 16090 Word: inherited
+Line: 16126 Word: inherited
+Line: 16185 Word: inheritance
+Line: 16186 Word: greatest
+Line: 16233 Word: inheritance
+Line: 16238 Word: inherited
+Line: 16301 Word: inherited
+Line: 16316 Word: selection
+Line: 16334 Word: inherited
+Line: 16337 Word: selection
+Line: 16338 Word: inheritance
+Line: 16422 Word: selection
+Line: 16456 Word: inherit
+Line: 16497 Word: inheritance
+Line: 16504 Word: inheritance
+Line: 16519 Word: inheritance
+Line: 16561 Word: inheritance
+Line: 16576 Word: selection
+Line: 16645 Word: inheritance
+Line: 16673 Word: selection
+Line: 16690 Word: selection
+Line: 16734 Word: selection
+Line: 16752 Word: inheritance
+Line: 16755 Word: selection
+Line: 16809 Word: inheritance
+Line: 17035 Word: inherited
+Line: 17047 Word: selection
+Line: 17073 Word: select
+Line: 17079 Word: selection
+Line: 17080 Word: inherited
+Line: 17085 Word: inherited
+Line: 17089 Word: selection
+Line: 17091 Word: inherited
+Line: 17111 Word: inherited
+Line: 17134 Word: selection
+Line: 17141 Word: inheritance
+Line: 17142 Word: selection
+Line: 17153 Word: inheritance
+Line: 17157 Word: inheritance
+Line: 17226 Word: inherited
+Line: 17240 Word: inherited
+Line: 17314 Word: selection
+Line: 17316 Word: inheritance
+Line: 17408 Word: inherited
+Line: 17419 Word: selection
+Line: 17423 Word: selection
+Line: 17427 Word: selection
+Line: 17429 Word: selection
+Line: 17430 Word: selection
+Line: 17432 Word: inheritance
+Line: 17456 Word: selection
+Line: 17469 Word: inheritance
+Line: 17496 Word: selection
+Line: 17515 Word: inherited
+Line: 17523 Word: inherited
+Line: 17525 Word: selection
+Line: 17527 Word: inheritance
+Line: 17547 Word: Selection
+Line: 17549 Word: Selection
+Line: 17558 Word: selection
+Line: 17580 Word: selection
+Line: 17679 Word: selection
+Line: 17819 Word: inherited
+Line: 17821 Word: inherited
+Line: 17830 Word: select
+Line: 17836 Word: selecting
+Line: 17838 Word: selection
+Line: 17848 Word: Selection
+Line: 17861 Word: slightest
+Line: 17878 Word: selection
+Line: 17899 Word: selection
+Line: 17902 Word: selected
+Line: 17907 Word: selection
+Line: 17939 Word: selection
+Line: 17960 Word: selection
+Line: 17966 Word: inherited
+Line: 17980 Word: selection
+Line: 17986 Word: selection
+Line: 17989 Word: selection
+Line: 18002 Word: selection
+Line: 18017 Word: selection
+Line: 18057 Word: inherited
+Line: 18067 Word: inherited
+Line: 18069 Word: selection
+Line: 18073 Word: selection
+Line: 18080 Word: inherit
+Line: 18082 Word: inherited
+Line: 18087 Word: selection
+Line: 18106 Word: selection
+Line: 18199 Word: selection
+Line: 18209 Word: inheritance
+Line: 18227 Word: inherited
+Line: 18235 Word: selection
+Line: 18238 Word: selection
+Line: 18242 Word: inherited
+Line: 18246 Word: selection
+Line: 18248 Word: inheritance
+Line: 18249 Word: inherited
+Line: 18262 Word: selection
+Line: 18263 Word: inherited
+Line: 18269 Word: selection
+Line: 18272 Word: selection
+Line: 18275 Word: selection
+Line: 18281 Word: selection
+Line: 18285 Word: greatest
+Line: 18297 Word: greatest
+Line: 18409 Word: greatest
+Line: 18443 Word: selection
+Line: 18518 Word: inherited
+Line: 18595 Word: selection
+Line: 18605 Word: Inheritance
+Line: 18609 Word: Selection
+Line: 19185 Word: latest
+Line: 19338 Word: latest
+Line: 19414 Word: latest
+Line: 19486 Word: selection
+Line: 19600 Word: Selection
+Line: 19607 Word: inherited
+Line: 19687 Word: selection
+Line: 19688 Word: selection
+Line: 19712 Word: intestine
+Line: 19763 Word: selection
+Line: 19849 Word: inherited
+Line: 19860 Word: intestines
+Line: 19915 Word: inherited
+Line: 19920 Word: selection
+Line: 20228 Word: selection
+Line: 20270 Word: selection
+Line: 20273 Word: Inheritance
+Line: 20291 Word: selection
+Line: 20391 Word: inheritance
+Line: 20487 Word: Selection
+Line: 20562 Word: selection
+Line: 20699 Word: latest
+Line: 20718 Word: selection
+Line: 20816 Word: inheritance
+Line: 20880 Word: intestines
+Line: 20885 Word: Selection
+Line: 20896 Word: selection
+Line: 20898 Word: selection
+Line: 20935 Word: selection
+Line: 20984 Word: selection
+Line: 21273 Word: selection

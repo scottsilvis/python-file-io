@@ -4,10 +4,10 @@ import sys
 
 def search_text(infile = 'origin.txt', 
                 outfile = 'origin_output.txt', 
-                terms = ['heritable', 'inherit', 'inheritance']):
+                terms = ['herit']):
 
     """
-    Extracts the line number and word from the file located at the 
+    Extracts the line number and word from the document located at the 
     path infile that are matched from a list of search terms provided 
     (or defaults if nothing is provided). 
     
@@ -29,19 +29,18 @@ def search_text(infile = 'origin.txt',
     """
 
     # Create a regular expression pattern from the list of terms
-    pattern = "[A-Z]*herit[A-Z]*" #join the words with a pipe to create pattern
+    pattern = "[A-Z]*(" + '|'.join(terms) + ")[A-Z]*" #join the words with a pipe to create pattern
     REpattern = re.compile(pattern, re.IGNORECASE) #compile the pattern
-    print('Opening ' + infile)
-    with open(infile, 'r') as in_stream:
-        print('Opening ' + outfile)
-        with open(outfile, 'w') as out_stream:
-            for line in in_stream:
-                line = line.strip()
-                word_list = line.split()
-                word_list.sort()
-                for word in word_list:
-                    if re.findall(REpattern, word):
-                        out_stream.write('{0}\n'.format(word))
+    print('Opening ' + infile) #print the input file
+    with open(infile, 'r') as in_stream: #open the input file
+        print('Opening ' + outfile) #print the output file
+        with open(outfile, 'w') as out_stream: #open the output file
+            print('Searching ' + infile + ' for ' + pattern + '...')
+            for count, line in enumerate(in_stream): #for each line in the input file
+                if re.search(REpattern, line): #if the pattern is found in the line
+                    word = re.search(REpattern, line).group() #find the word
+                    output = "Line: " + str(count) + " Word: " + word #create the output
+                    out_stream.write('{0}\n'.format(output)) #write the output to the output file
     print("Done!")
     print(infile +  ' is closed?', in_stream.closed)
     print(outfile + ' is closed?', out_stream.closed, '\n')
@@ -49,7 +48,7 @@ def search_text(infile = 'origin.txt',
 def main():
     import argparse
 
-    default_terms = ['heritable', 'inherit', 'inheritance'] #words to search for
+    default_terms = ['herit'] #words to search for
     default_infile = 'origin.txt' #input file
     default_outfile = 'origin_output.txt' #output file
 
