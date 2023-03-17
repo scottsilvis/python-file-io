@@ -29,7 +29,8 @@ def search_text(infile = 'origin.txt',
     """
 
     # Create a regular expression pattern from the list of terms
-    pattern = '|'.join(terms) + r'\b' #join the words with a pipe to create pattern
+    pattern = "[A-Z]*herit[A-Z]*" #join the words with a pipe to create pattern
+    REpattern = re.compile(pattern, re.IGNORECASE) #compile the pattern
     print('Opening ' + infile)
     with open(infile, 'r') as in_stream:
         print('Opening ' + outfile)
@@ -39,7 +40,7 @@ def search_text(infile = 'origin.txt',
                 word_list = line.split()
                 word_list.sort()
                 for word in word_list:
-                    if re.findall(pattern, word, re.IGNORECASE):
+                    if re.findall(REpattern, word):
                         out_stream.write('{0}\n'.format(word))
     print("Done!")
     print(infile +  ' is closed?', in_stream.closed)
